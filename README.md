@@ -2,7 +2,8 @@
 - I am majoring in Physics and Data Science!!
 - I enjoy using tools from Data Science to study physical systems.
 - I am interested in machine learning, neural networks, and high-performance computing.
-- Feel free to reach out to me through my email: ecald4402@yahoo.com
+- Feel free to reach out to me through my email (ecald4402@yahoo.com) or my LinkedIn (https://www.linkedin.com/in/caldwelleric/)
+- Happy Coding!
 
 
 <!---
