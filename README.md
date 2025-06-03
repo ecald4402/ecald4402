@@ -3,7 +3,7 @@
 - I enjoy using tools from Data Science to study physical systems.
 - I am interested in machine learning, neural networks, quantum computing, and high-performance computing.
 - Feel free to reach out to me through my email (sharksintheocean9@gmail.com) or my LinkedIn (https://www.linkedin.com/in/caldwelleric/)
-- Happy Coding!
+- Personal account.
 
 
 <!---
